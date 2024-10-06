@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
+- 🌱 I’m currently learning **REACT,FLASK,ML**
 
 - 📫 How to reach me **aryakatoch06@gmail.com**
 
